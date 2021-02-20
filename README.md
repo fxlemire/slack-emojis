@@ -1,5 +1,7 @@
 # Emojis for Slack
 
+This serves as a collection of emojis I like to use so that it's quick and easy to feel at home in new Slack workspaces :)
+
 ## How To Use
 
 - Install the [Neutral Face Emoji Tools](https://chrome.google.com/webstore/detail/neutral-face-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en) from the Chrome Web Store
