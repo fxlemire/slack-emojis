@@ -12,7 +12,7 @@ This serves as a collection of emojis I like to use so that it's quick and easy 
 - [blobs-gg](./emojis/blobs-gg): From the [Blob Emoji](https://blobs.gg/) website. See [LICENSE](./emojis/blobs-gg/LICENSE.txt).
 - [cultofthepartyparrot](./emojis/cultofthepartyparrot): From the [Cult of the Party Parrot](https://cultofthepartyparrot.com/) website.
 - [slackmojis](./emojis/slackmojis): From the [Slackmojis](https://slackmojis.com/) website.
-- [other](./emojis/other): Gathered from quite everywhere on the Web through the years.
+- [other](./emojis/other): Gathered from quite everywhere on the Web through the years, or modified by myself.
 
 ## Some useful Fish Shell scripts
 
